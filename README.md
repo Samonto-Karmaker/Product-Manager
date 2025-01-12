@@ -120,4 +120,8 @@ For endpoints related to searching, you can use the following query parameters:
 
 ## ER Diagram
 
-ER diagram link: [Click Here](#https://app.eraser.io/workspace/iDAova6PI1dh8UDXxSqi?origin=share)
+ER Diagram link: [Click Here](https://app.eraser.io/workspace/iDAova6PI1dh8UDXxSqi?origin=share)
+
+Eraser is used to create the ER Diagram.
+
+_Note: You don't need an account to view this diagram_
